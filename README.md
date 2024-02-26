@@ -1,4 +1,4 @@
-# Covid19-Data-Exploration-SQL
+## Covid19-Data-Exploration-SQL
 
 **Overview**
 
